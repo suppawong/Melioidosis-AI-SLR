@@ -1,6 +1,6 @@
 # Melioidosis-AI-SLR
 
-Data deposit for the systematic review **"AI for Clinical Management of Melioidosis: A Systematic Review of Transferable Methodologies from Pneumonia, Sepsis, and Inflammatory Conditions"** (manuscript ID `HELIYON-D-26-00946`, R1 revision).
+Data deposit for the systematic review **"AI for Clinical Management of Melioidosis: A Systematic Review of Transferable Methodologies from Pneumonia, Sepsis, and Inflammatory Conditions"**.
 
 Because melioidosis-specific AI studies are scarce, the review surveys AI and machine-learning methods developed for clinically analogous ("isomorphic") conditions — pneumonia, septicemia and sepsis, and other bacterial inflammations such as abscesses, ulcers, and mycotic aneurysms — and assesses how those methods might transfer to melioidosis care. This repository holds everything needed to verify the review's counts, tables, and appraisal: the full data-extraction dataset for all 111 included studies, the completed PRISMA 2020 checklist, and an empirical PubMed recall check prepared in response to peer review.
 
